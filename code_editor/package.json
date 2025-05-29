@@ -16,6 +16,7 @@
     "@codemirror/view": "^6.37.0",
     "@uiw/codemirror-theme-material": "^4.23.12",
     "@uiw/react-codemirror": "^4.23.12",
+    "lucide-react": "^0.511.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
